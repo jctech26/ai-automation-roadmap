@@ -1,17 +1,43 @@
-# Nombre de la fase
+# Fase X: Nombre de la fase
 
 ## Objetivo
 
-Pendiente de completar.
+Explicar qué quiero conseguir en esta fase.
 
-## Lo que voy aprendiendo
+## Temas que voy a estudiar
 
-- Pendiente
+* Tema 1
+* Tema 2
+* Tema 3
 
-## Ejercicios realizados
+## Herramientas
 
-- Pendiente
+* Herramienta 1
+* Herramienta 2
+* Herramienta 3
+
+## Ejercicios prácticos
+
+* [ ] Ejercicio 1
+* [ ] Ejercicio 2
+* [ ] Ejercicio 3
+
+## Proyectos relacionados
+
+* Pendiente
 
 ## Recursos útiles
 
-- Pendiente
+* Pendiente
+
+## Aprendizajes
+
+* Pendiente
+
+## Dudas pendientes
+
+* Pendiente
+
+## Evidencias de avance
+
+Aquí añadiré enlaces, capturas, notas o ejemplos prácticos.
