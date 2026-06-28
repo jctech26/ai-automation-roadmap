@@ -58,5 +58,6 @@ Aprender a crear automatizaciones visuales con Make para conectar herramientas, 
 - Pendiente
  
 ## Evidencias de avance
- 
-Aquí añadiré capturas de escenarios, explicación de flujos, errores encontrados y soluciones aplicadas.
+
+- Aquí añadiré capturas de escenarios, explicación de flujos, errores encontrados y soluciones aplicadas.
+  
