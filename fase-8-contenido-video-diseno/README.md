@@ -1,43 +1,62 @@
-# Fase X: Nombre de la fase
-
+# Fase 8: Vídeo, diseño y automatización de contenido
+ 
 ## Objetivo
-
-Explicar qué quiero conseguir en esta fase.
-
+ 
+Aprender a usar herramientas de IA, diseño, vídeo y automatización para crear sistemas de contenido más eficientes, escalables y útiles para marketing o comunicación.
+ 
 ## Temas que voy a estudiar
-
-* Tema 1
-* Tema 2
-* Tema 3
-
+ 
+- Automatización de contenido
+- Generación de ideas con IA
+- Creación de guiones
+- Diseño asistido por IA
+- Edición de vídeo con herramientas digitales
+- Publicación automática de contenido
+- Calendarios editoriales
+- Reutilización de contenido
+- Flujos de contenido para empresas
+- Sistemas de producción audiovisual
+ 
 ## Herramientas
-
-* Herramienta 1
-* Herramienta 2
-* Herramienta 3
-
+ 
+- Claude
+- Canva
+- Herramientas de vídeo con IA
+- Google Sheets
+- Make
+- n8n
+- APIs
+- GitHub
+ 
 ## Ejercicios prácticos
-
-* [ ] Ejercicio 1
-* [ ] Ejercicio 2
-* [ ] Ejercicio 3
-
+ 
+- [ ] Crear un flujo para generar ideas de contenido
+- [ ] Crear una plantilla de guion con IA
+- [ ] Diseñar un calendario editorial en Google Sheets
+- [ ] Automatizar parte del proceso de publicación
+- [ ] Crear un sistema simple de fábrica de contenido
+- [ ] Documentar un flujo completo de contenido audiovisual
+ 
 ## Proyectos relacionados
-
-* Pendiente
-
+ 
+- Fábrica de contenido audiovisual
+- Sistema de generación de posts
+- Automatización de calendario editorial
+- Flujo de creación de vídeos cortos
+- Sistema de reutilización de contenido
+ 
 ## Recursos útiles
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Aprendizajes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Dudas pendientes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Evidencias de avance
 
-Aquí añadiré enlaces, capturas, notas o ejemplos prácticos.
+- Aquí añadiré capturas, ejemplos de contenido, flujos, prompts, plantillas y resultados generados.
