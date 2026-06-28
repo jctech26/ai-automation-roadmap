@@ -1,43 +1,60 @@
-# Fase X: Nombre de la fase
-
+# Fase 6: RAG, agentes y sistemas de IA
+ 
 ## Objetivo
-
-Explicar qué quiero conseguir en esta fase.
-
+ 
+Aprender conceptos más avanzados de IA aplicada, como chatbots con documentos, recuperación de información, agentes, memoria, herramientas y sistemas de IA orientados a negocio.
+ 
 ## Temas que voy a estudiar
-
-* Tema 1
-* Tema 2
-* Tema 3
-
+ 
+- Qué es RAG
+- Qué son embeddings
+- Qué es una base de datos vectorial
+- Cómo funciona un chatbot con documentos
+- Qué es un agente de IA
+- Qué son herramientas dentro de un agente
+- Qué es memoria en sistemas de IA
+- Cómo evaluar respuestas de IA
+- Casos de uso de RAG en empresas
+ 
 ## Herramientas
-
-* Herramienta 1
-* Herramienta 2
-* Herramienta 3
-
+ 
+- Claude
+- Python
+- APIs
+- Bases de datos vectoriales
+- Documentos PDF
+- GitHub
+- n8n
+- Make
+ 
 ## Ejercicios prácticos
-
-* [ ] Ejercicio 1
-* [ ] Ejercicio 2
-* [ ] Ejercicio 3
-
+ 
+- [ ] Explicar con mis palabras qué es RAG
+- [ ] Diseñar el flujo de un chatbot con documentos
+- [ ] Crear una lista de casos de uso de RAG
+- [ ] Investigar bases de datos vectoriales
+- [ ] Crear un prototipo simple de chatbot documental
+- [ ] Documentar ventajas y limitaciones de los agentes de IA
+ 
 ## Proyectos relacionados
-
-* Pendiente
-
+ 
+- Chatbot con documentos
+- Asistente de soporte con base documental
+- Sistema de preguntas y respuestas sobre archivos
+- Agente para tareas internas de empresa
+ 
 ## Recursos útiles
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Aprendizajes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Dudas pendientes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Evidencias de avance
-
-Aquí añadiré enlaces, capturas, notas o ejemplos prácticos.
+ 
+Aquí añadiré diagramas, prototipos, pruebas, capturas, prompts y explicaciones técnicas.
