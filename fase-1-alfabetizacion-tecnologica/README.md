@@ -1,43 +1,58 @@
-# Fase X: Nombre de la fase
-
+# Fase 1: Alfabetización tecnológica
+ 
 ## Objetivo
-
-Explicar qué quiero conseguir en esta fase.
-
+ 
+Aprender los conceptos técnicos básicos necesarios para entender la automatización, las APIs, los datos, la nube y los sistemas digitales modernos.
+ 
 ## Temas que voy a estudiar
-
-* Tema 1
-* Tema 2
-* Tema 3
-
+ 
+- Qué es una API
+- Qué es JSON
+- Qué es un webhook
+- Qué es una base de datos
+- Qué es cloud computing
+- Qué es un servidor
+- Qué es frontend y backend
+- Qué es una integración entre herramientas
+- Qué es una automatización
+- Qué es un flujo de trabajo digital
+ 
 ## Herramientas
-
-* Herramienta 1
-* Herramienta 2
-* Herramienta 3
-
+ 
+- GitHub
+- Google Sheets
+- Postman
+- Navegador web
+- Documentación técnica
+- Claude
+ 
 ## Ejercicios prácticos
-
-* [ ] Ejercicio 1
-* [ ] Ejercicio 2
-* [ ] Ejercicio 3
-
+ 
+- [ ] Explicar con mis palabras qué es una API
+- [ ] Crear un ejemplo sencillo de JSON
+- [ ] Investigar qué es un webhook
+- [ ] Hacer una tabla comparando API, webhook y automatización
+- [ ] Probar una API pública con Postman
+- [ ] Documentar 10 conceptos técnicos básicos
+ 
 ## Proyectos relacionados
-
-* Pendiente
-
+ 
+- Glosario técnico personal
+- Mapa de conceptos de automatización
+- Primer ejemplo de consulta a una API
+ 
 ## Recursos útiles
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Aprendizajes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Dudas pendientes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Evidencias de avance
-
-Aquí añadiré enlaces, capturas, notas o ejemplos prácticos.
+ 
+Aquí añadiré apuntes, capturas, ejemplos de JSON, pruebas con APIs o explicaciones propias.
