@@ -1,43 +1,63 @@
-# Fase X: Nombre de la fase
-
+# Fase 5: Python, APIs y bases técnicas
+ 
 ## Objetivo
-
-Explicar qué quiero conseguir en esta fase.
-
+ 
+Aprender las bases de Python y APIs para crear scripts sencillos, consumir servicios externos, trabajar con datos y entender mejor la parte técnica de las automatizaciones.
+ 
 ## Temas que voy a estudiar
-
-* Tema 1
-* Tema 2
-* Tema 3
-
+ 
+- Fundamentos de Python
+- Variables
+- Listas y diccionarios
+- Condicionales
+- Bucles
+- Funciones
+- Manejo de archivos
+- JSON
+- Librería `requests`
+- Consumo de APIs
+- Variables de entorno
+- Buenas prácticas básicas
+ 
 ## Herramientas
-
-* Herramienta 1
-* Herramienta 2
-* Herramienta 3
-
+ 
+- Python
+- VS Code
+- GitHub
+- Postman
+- APIs públicas
+- Terminal
+- Claude
+ 
 ## Ejercicios prácticos
-
-* [ ] Ejercicio 1
-* [ ] Ejercicio 2
-* [ ] Ejercicio 3
-
+ 
+- [ ] Crear mi primer script en Python
+- [ ] Leer y escribir datos simples
+- [ ] Crear un diccionario en Python
+- [ ] Consumir una API pública
+- [ ] Procesar una respuesta JSON
+- [ ] Guardar datos de una API en un archivo
+- [ ] Crear un script pequeño útil para automatización
+ 
 ## Proyectos relacionados
-
-* Pendiente
-
+ 
+- Consulta automática a una API
+- Script para procesar leads
+- Script para limpiar datos
+- Mini herramienta de análisis de texto
+ 
 ## Recursos útiles
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Aprendizajes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Dudas pendientes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Evidencias de avance
 
-Aquí añadiré enlaces, capturas, notas o ejemplos prácticos.
+- Aquí añadiré código, capturas, ejemplos de APIs, errores resueltos y pequeñas pruebas técnicas.
