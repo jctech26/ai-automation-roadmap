@@ -1,43 +1,62 @@
-# Fase X: Nombre de la fase
-
+# Fase 7: Cloud, seguridad y despliegue
+ 
 ## Objetivo
-
-Explicar qué quiero conseguir en esta fase.
-
+ 
+Aprender los fundamentos necesarios para desplegar soluciones, proteger claves API, trabajar con servicios cloud y entender buenas prácticas básicas de seguridad.
+ 
 ## Temas que voy a estudiar
-
-* Tema 1
-* Tema 2
-* Tema 3
-
+ 
+- Qué es cloud computing
+- Qué es hosting
+- Qué es un servidor
+- Qué es una variable de entorno
+- Qué es `.env`
+- Qué es `.gitignore`
+- Cómo proteger claves API
+- Qué es autenticación
+- Qué es autorización
+- Buenas prácticas de seguridad básica
+- Opciones de despliegue para proyectos simples
+ 
 ## Herramientas
-
-* Herramienta 1
-* Herramienta 2
-* Herramienta 3
-
+ 
+- GitHub
+- Python
+- Servicios cloud
+- Variables de entorno
+- Archivos `.env`
+- Terminal
+- APIs
+- n8n
+ 
 ## Ejercicios prácticos
-
-* [ ] Ejercicio 1
-* [ ] Ejercicio 2
-* [ ] Ejercicio 3
-
+ 
+- [ ] Crear un archivo `.gitignore`
+- [ ] Entender cómo funciona un archivo `.env`
+- [ ] Documentar qué información no debe subirse a GitHub
+- [ ] Investigar opciones de hosting
+- [ ] Desplegar un proyecto simple
+- [ ] Crear checklist básico de seguridad
+ 
 ## Proyectos relacionados
-
-* Pendiente
-
+ 
+- Despliegue de un script o app simple
+- Automatización segura con claves API
+- Checklist de seguridad para automatizaciones
+- Documentación de buenas prácticas
+ 
 ## Recursos útiles
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Aprendizajes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Dudas pendientes
-
-* Pendiente
-
+ 
+- Pendiente
+ 
 ## Evidencias de avance
 
-Aquí añadiré enlaces, capturas, notas o ejemplos prácticos.
+- Aquí añadiré notas, capturas, configuraciones, aprendizajes sobre seguridad y ejemplos de despliegue.
